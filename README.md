@@ -1,5 +1,7 @@
 # HabitTracker
 
+Video Demo of the website: https://drive.google.com/drive/folders/1DBCsZYgAzLUom8OFBcADlT1eljQ809_G?usp=sharing
+
 ## Build habits that last.
 
 Your life doesn't change from big actions taken, but from the underlying small steps and decisions taken everyday.
