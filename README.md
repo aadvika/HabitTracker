@@ -1,6 +1,6 @@
 # HabitTracker
 
-Video Demo of the website: https://drive.google.com/drive/folders/1DBCsZYgAzLUom8OFBcADlT1eljQ809_G?usp=sharing
+Video Demo of the tracker: https://drive.google.com/drive/folders/1DBCsZYgAzLUom8OFBcADlT1eljQ809_G?usp=sharing
 
 ## Build habits that last.
 
