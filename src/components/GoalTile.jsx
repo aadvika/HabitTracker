@@ -1,3 +1,5 @@
+// unused
+
 // src/components/GoalTile.jsx
 import React from 'react';
 
