@@ -12,7 +12,7 @@ This habit tracker is a simple web app that allows you to set goals for each wee
 
 In this customized tracker, you can create three goals per week, and for each day, mark whether you’ve completed those goals. This way at the start of each week, you can set achievable, incremental goals catered to your routine. The habit tiles change color based on how many tasks you’ve completed that day, offering visual feedback to help track your progress. Research shows that watching your habits grow over time, day after day serves as an extra boost with staying consistent.
 
-For this MVP version, 11 weeks (77 days) are represented for the duration of a quarter.
+For this MVP version, default of 11 weeks (77 days) is used to represent the duration of a quarter.
 
 **Consistency > Motivation** <br/> 
 <br/>
