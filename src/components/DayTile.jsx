@@ -1,3 +1,5 @@
+// unused
+
 // src/components/DayTile.jsx
 import React, { useState } from 'react';
 
